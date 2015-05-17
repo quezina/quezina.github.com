@@ -24,7 +24,7 @@ body {
   color: #d2cfdf;
   font-weight: bolder;
   font-size: small;
-  font-family: Arial;
+  font-family: 'Arial';
 }
 .brand em {
   font-size: large;
