@@ -21,10 +21,10 @@ body {
   top: 20px;
   left: 40px;
   position: absolute;
-  color: #aaa939;
+  color: #d2cfdf;
   font-weight: bolder;
-  font-size: medium;
-  font-family: 'Candal', sans-serif;
+  font-size: small;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 .brand em {
   font-size: large;
@@ -57,7 +57,7 @@ font-family: 'Changa One', cursive;
   min-width: 640px;
   margin: 0;
   width: 100%;
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   height: 300px;
   text-align: center;
   background-color: #2b273b;
